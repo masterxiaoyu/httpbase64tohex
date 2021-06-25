@@ -1,3 +1,5 @@
 # httpserverbase64tohex
-简单的base64与16加密互转的http服务器，附测试客户端（支持post，get请求）
+简单的base64与16进制互转的http服务器，附测试客户端（支持post，get请求）
 linux与windows双版本，windows下为vs2012平台
+
+linux下直接sh mkhttpserver生成testhttpserver可执行文件
