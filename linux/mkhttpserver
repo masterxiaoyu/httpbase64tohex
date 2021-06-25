@@ -1,0 +1,1 @@
+cc -I ./ -L ./ -o testhttpserver testhttpserver.c lib6.a -lc -lpthread -lswsds
